@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LDW-portifolio/static/css/main.21e8a5c8.css",
+    "main.js": "/LDW-portifolio/static/js/main.7a73d1e6.js",
+    "static/js/453.93ef2b32.chunk.js": "/LDW-portifolio/static/js/453.93ef2b32.chunk.js",
+    "index.html": "/LDW-portifolio/index.html",
+    "main.21e8a5c8.css.map": "/LDW-portifolio/static/css/main.21e8a5c8.css.map",
+    "main.7a73d1e6.js.map": "/LDW-portifolio/static/js/main.7a73d1e6.js.map",
+    "453.93ef2b32.chunk.js.map": "/LDW-portifolio/static/js/453.93ef2b32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21e8a5c8.css",
+    "static/js/main.7a73d1e6.js"
+  ]
+}
