@@ -39,7 +39,7 @@ const Projects = () => {
       <div className="swiper-wrapper">
 
         <div className="swiper-slide">
-          <img src="../carrinho.png" alt="Carrinho" />
+          <img src={`${process.env.PUBLIC_URL}/carrinho.png`} alt="Carrinho" />
         </div>
 
         <div className="swiper-slide">
